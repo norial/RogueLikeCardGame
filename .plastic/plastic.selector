@@ -1,0 +1,4 @@
+repository "RogueLikeCardGame@Kraol@cloud"
+  path "/"
+    br "/main"
+    co "/main"
